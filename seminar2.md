@@ -8,4 +8,6 @@
 
 ## Branch merging
 
+* *git merge brange_name* - команда, осуществяющая слияние текущей ветки с branch_name
+
 ## Conflicts
